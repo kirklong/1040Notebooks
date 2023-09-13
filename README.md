@@ -5,3 +5,5 @@ This repository will host Jupyter notebooks / other code as needed throughout th
 An introduction to Jupyter notebooks/Python is included in [`L1.ipynb`](L1.ipynb), and a sample blank homework notebook (with all of the useful constants you will need for the semester + a few useful `astropy` commands) is located at [`homeworkTemplate.ipynb`](homeworkTemplate.ipynb).
 
 Homework files will be uploaded to corresponding folders. For example, your first real problem set has been uploaded to the folder [`PS1`](PS1). I recommend downloading the full folder for each week's homework to preserve images/organization/etc.   
+
+**Make sure you keep track of your files!!!** If you download the *entire* repository every week (with the big green button) you may accidentally overwrite your previous work. Be careful you only copy what you need (the new notebooks) and preserve your hard work!
